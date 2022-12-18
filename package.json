@@ -35,8 +35,12 @@
     "@nomiclabs/hardhat-ganache": "^2.0.0",
     "@nomiclabs/hardhat-truffle5": "^2.0.0",
     "@nomiclabs/hardhat-web3": "^2.0.0",
+dependabot/npm_and_yarn/openzeppelin/contracts-upgradeable-4.7.2
     "@openzeppelin/contracts": "^3.4.0",
     "@openzeppelin/contracts-upgradeable": "^4.7.2",
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts-upgradeable": "^3.4.0",
+dependabot/npm_and_yarn/openzeppelin/contracts-4.7.3
     "@openzeppelin/hardhat-upgrades": "^1.14.0",
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.1",
